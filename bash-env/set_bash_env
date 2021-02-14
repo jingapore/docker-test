@@ -1,0 +1,4 @@
+unset SET_BASH_ENV
+echo "hello from set_bash_env!"
+export SET_BASH_ENV=YES
+# exec "$@"

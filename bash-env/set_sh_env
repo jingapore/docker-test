@@ -1,0 +1,4 @@
+unset SET_SH_ENV
+echo "hello from set_sh_env!"
+export SET_SH_ENV=YES
+# exec "$@"
